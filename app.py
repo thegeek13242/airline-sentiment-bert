@@ -1,3 +1,4 @@
+# Script for deploying the model on Hugging Face Spaces
 import gradio as gs
 import infer
 
