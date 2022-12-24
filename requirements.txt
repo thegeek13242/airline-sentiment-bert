@@ -1,0 +1,7 @@
+tensorflow<2.11
+transformers
+emoji
+numpy 
+pandas
+scikit-learn
+fastapi[all]
