@@ -35,3 +35,4 @@ The given code is trained on custom dataset provided with this repo, if you want
 To create an API endpoint at localhost, run the following command:
 ```uvicorn api:app --reload```
 
+After running the above command, you can access the API documentation at http://127.0.0.1:8000/docs
